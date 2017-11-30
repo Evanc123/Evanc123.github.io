@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Brown University CS '20. I'm interested in Reinforcement Learning, Bayesian Machine Learning and Education Reform using technology.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+I am looking for research internships. 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+contact me at my first underscore last name followed by the number one at brown dot edu
