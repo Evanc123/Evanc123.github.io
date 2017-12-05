@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes on Variational Autoencoders
+title: Welcome to my Blog
 ---
 
-They are cool
+I am currently a sophomore at Brown University. I will blog about my research in Deep Reinforcement Learning, as well as things I find generally interesting. 
