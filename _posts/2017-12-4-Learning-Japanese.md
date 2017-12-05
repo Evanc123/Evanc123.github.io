@@ -5,7 +5,7 @@ title: I am learning Japanese!
 I am going to embark on a 6 month journey (177 days starting now) to learn Japanese! My general strategy is:
 
 - Use Memrise for basic expressions, intros, katakana, and hiragana (https://www.memrise.com/home/) 
-- Use NihongoShark's ANKI Kanji deck (https://ankiweb.net/shared/info/1956010956)
+- Use NihongoShark's ANKI Kanji deck (<a href="https://ankiweb.net/shared/info/1956010956>">anki</a>)
 - Take a weekly Italki lesson (https://www.italki.com/lesson/session/3431361057)
 - Work through the Genki Books 1 and 2 for practice writing and grammar (http://genki.japantimes.co.jp/about_en) 
 
