@@ -18,5 +18,8 @@ $$||T(\cdot|s,a)-\hat{T}(\cdot|s,a)||_{1}\leq \sqrt{2KL\big(T(\cdot|s,a)||\hat{T
 
 Note that the above term is the theoretical justification of using MLE for MBRL.
 
+Faramoud introduces: 
+$$L(T,\hat T)(s,a)\!=\!\sup_{v\in \mathcal{F}}\Big|\!\int\!\big(T(s'\mid s,a)-\hat{T}_n(s'\mid s,a)\big)v(s') ds' \Big|^2$$
+Which is very similar to minimizing the wasserstein! With some assumptions: 
 $$L\big(T,\widehat T\big)(s,a)=\Big(C\ W\big(T(\cdot|s,a),\widehat T(\cdot|s,a)\big)\Big)^2\ .$$
 This highlights a nice property of Wasserstein, namely that minimizing this metric yields a value-aware model.
