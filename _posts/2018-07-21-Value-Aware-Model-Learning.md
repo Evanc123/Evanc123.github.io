@@ -3,21 +3,14 @@
 $$W(\mu_1,\mu_2):=\inf_{j \in \Lambda}\int\!\int j(s_1,s_2) d(s_1,s_2)ds_2\ ds_1 $$
 $$W(\mu_1,\mu_2)=\sup_{f:K_{d,d_{\mathbb{R}}}(f)\leq 1}\int\! \big(\mu_{1}(s)-\mu_{2}(s)\big)f(s)ds\$$
 
-$$l(T, \widehat T)(s, a)
+$$l(T, \hat{T})(s, a)
     &=&\!\gamma\!\int\!\big( T(s'|s,a)\!-\!\hat{T}(s'|s,a)\big) v(s')ds'
     $$
 
-$$l(\widehat T, T)(s, a)
-&\leq& \gamma ||T(s'|s,a)-\hat{T}(s'|s,a)||_{1}||v||_{\infty}$$
+$$l(T, \hat{T})(s, a) &\leq& \gamma ||T(s'|s,a)-\hat{T}(s'|s,a)||_{1}||v||_{\infty}$$
 
 
 $$||T(\cdot|s,a)-\hat{T}(\cdot|s,a)||_{1}\leq \sqrt{2KL\big(T(\cdot|s,a)||\hat{T}(\cdot|s,a)\big)}\ $$
-
-\begin{aligned}
-&L\big(T,\hat T\big)(s,a)\!=\!\sup_{f\in \mathcal{L}_C}\!\Big|\!\int\!f(s)\big(T(s'\mid s,a)\!-\!\widehat T(s'\mid s,a)\big)\!ds' \Big|^2\\
-&=\sup_{f\in \mathcal{L}_C}\Big|\!\int\!C\frac{f(s)}{C}\big(T(s'\mid s,a)\!-\!\widehat T(s'\mid s,a)\big)\ ds' \Big|^2\\
-&=C^2\sup_{g\in \mathcal{L}_1}\Big|\!\int\! g(s)\big(T(s'\mid s,a)\!-\!\widehat T(s'\mid s,a)\big)\ ds' \Big|^2\ .\\
-\end{aligned}
 
 $$L\big(T,\widehat T\big)(s,a)=\Big(C\ W\big(T(\cdot|s,a),\widehat T(\cdot|s,a)\big)\Big)^2\ .$$
 This highlights a nice property of Wasserstein, namely that minimizing this metric yields a value-aware model.
