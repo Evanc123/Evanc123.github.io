@@ -1,6 +1,6 @@
 These are my quick thoughts on the first 5 chapters of Metaphors of Meaning by George Lakoff and Mark Johnson. I really enjoy this book so far, I highly recommend you give it a read. 
 These notes are mostly for myself but I hope you gain some insight. 
-
+$$ \mathbb{R} $$
 Metaphors are lenses we view our experiences and objects through. For example, we use our spatial experiences to interpret dichotomies. Good is up, bad is down. Status is up. 
 
 On another hand, we use metaphors such as Time is Money or Argument is War, where we use the structure from war to interpret discourse and scarcity for the continua. 
