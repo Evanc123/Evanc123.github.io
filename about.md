@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Brown University CS '20. I'm interested in Machine learning.
+Brown University CS '20. 
 
 ### More Information
 Looking for opportunities! Happy to chat, reach out:
