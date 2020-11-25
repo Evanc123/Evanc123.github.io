@@ -1,6 +1,6 @@
 Draft:
 Introduce the wasserstein distance primal form: 
-$W(\mu_1,\mu_2):=\inf_{j \in \Lambda}\int\!\int j(s_1,s_2) d(s_1,s_2)ds_2\ ds_1 $
+$$W(\mu_1,\mu_2):=\inf_{j \in \Lambda}\int\!\int j(s_1,s_2) d(s_1,s_2)ds_2\ ds_1 $$
 
 Through the kantorovish-duality, the dual form (note the space of functions that are lipschitz 1. 
 $$W(\mu_1,\mu_2)=\sup_{f:K_{d,d_{\mathbb{R}}}(f)\leq 1}\int\! \big(\mu_{1}(s)-\mu_{2}(s)\big)f(s)ds\$$
